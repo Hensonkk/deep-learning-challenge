@@ -1,0 +1,2 @@
+model_checkpoint_path: "ASC callbacks"
+all_model_checkpoint_paths: "ASC callbacks"
